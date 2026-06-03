@@ -1,1 +1,2 @@
-helllo my name is 
+a=10
+print(a)
